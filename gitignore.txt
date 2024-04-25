@@ -1,0 +1,10 @@
+target/
+
+### IntelliJ IDEA ###
+.idea
+*.class
+*.mvn
+*.iws
+*.iml
+*.ipr
+
